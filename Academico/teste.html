@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style type="text/css">
+        .footerAux {
+            margin-top: -150px;
+            height: 500px;
+            background-color: yellow;
+           
+        }
+        .Awrapper {
+             min-height: 100%;
+             background-color: red;
+         }
+    </style>
+    <script>
+        function leo(){ 
+            var msg = document.getElementById("rodapeAux");
+            msg.parentNode.removeChild(msg);   
+        };
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <div id="rodapeAux" class="footerAux" onload = leo()>
+              aqui
+    </div>
+
+    <div id="wrapper" class="Awrapper">
+	    <div id="header">
+            Os campos a seguirsão: </br> Teste
+        </div>
+    </div>
+   <script> leo(); </script>
+    
+    
+        
+</body>
+</html>

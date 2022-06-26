@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nome": "Marta A",
+    "sobrenome": "Will",
+    "telefone": "123456",
+    "data":  "2001-10",
+    "ra": 1
+  },
+  {
+    "id": 2,
+    "nome": "Laura B",
+    "sobrenome": "Maria",
+    "telefone": "55858586",
+    "data": "2002-11",
+    "ra": 2
+  },
+  {
+    "id": 3,
+    "nome": "Paula",
+    "sobrenome": "Braga",
+    "telefone": "55858588",
+    "data": "2003-12",
+    "ra": 3
+  },
+  {
+    "id": 4,
+    "nome": "Rafael",
+    "sobrenome": "Henrique",
+    "telefone": "12345224",
+    "data": "2004-13",
+    "ra": 4
+  },
+  {
+    "id": 5,
+    "nome": "Renata",
+    "sobrenome": "Abreu",
+    "telefone": "22614545",
+    "data": "2005-14",
+    "ra": 22
+  },
+  {
+    "id": 6,
+    "nome": "Victor",
+    "sobrenome": "Santos",
+    "telefone": "2265588",
+    "data": "1996-02",
+    "ra": 29
+  },
+  {
+    "id": 8,
+    "nome": "José",
+    "sobrenome": "Antonio ",
+    "telefone": "18996962472",
+    "data": "2006-15",
+    "ra": 12131564
+  },
+  {
+    "id": 9,
+    "nome": "Luis",
+    "sobrenome": "Antares",
+    "telefone": "1231313",
+    "data": "1996-02",
+    "ra": 31
+  }
+]
